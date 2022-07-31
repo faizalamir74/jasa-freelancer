@@ -2,7 +2,7 @@
 <aside class="z-20 flex-shrink-0 hidden w-64 overflow-y-auto bg-white md:block" aria-label="aside">
     <div class="text-serv-bg">
 
-        <div class="" href="#">
+        <div class="">
             <a href="{{ route('index') }}">
             <img src="{{ asset('/assets/images/logo.svg') }}" alt="" class="object-center mx-auto my-8 ">
         </div>
