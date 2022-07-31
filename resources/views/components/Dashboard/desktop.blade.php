@@ -3,6 +3,7 @@
     <div class="text-serv-bg">
 
         <div class="" href="#">
+            <a href="{{ route('index') }}">
             <img src="{{ asset('/assets/images/logo.svg') }}" alt="" class="object-center mx-auto my-8 ">
         </div>
 
